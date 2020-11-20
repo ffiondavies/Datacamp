@@ -1,8 +1,6 @@
 # MACHINE LEARNING WITH PYTHON
 
-Ffion Davies Datacamp at home test
-
-Upskill yourself and joing the Machine Learning revolution! This track after this track, you will be able to apply the fundamental concepts in Machine Learning. 
+Upskill yourself and join the Machine Learning revolution! After completeing this track, you will be able to apply fundamental concepts of Python in Machine Learning. 
 
 # PREREQUISITES
 
