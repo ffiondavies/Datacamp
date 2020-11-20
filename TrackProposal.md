@@ -26,8 +26,7 @@ What is machine learning? This non technical course will answer all of those bas
 
 ###### Learning Objectives
 
-* Learner wil be able to define machine learning and its relation to data science and artificial intelligence
-* Learner will be able to understand and explain the different types of machine learning as well as the limits and dangers of machine learning
+* Learner wil be able to define machine learning, limits and dangers, and its relation to data science and artificial intelligence
 * Learner will be able to explain the difference between the terms 'unsupervised' and 'supervised' learning
 * Leaner will construct a model and evaluate and improve this model
 
@@ -42,7 +41,6 @@ Welcome to Introduction to Python. In this course, you will learn the basics of 
 * Learner will understand and apply basic syntax and create variables
 * Learner will effectively store, access, and manipulate data in lists
 * Learner wil use functions, methods, and packages efficiently 
-* Learner will be able to work with tools in the NumPy array
 
 ## Course 3. Intermediate Python 
 
@@ -55,7 +53,6 @@ Upgrade your python skills with Intermediate Python. Learning Python is essentia
 * Learner be able to build and customise plots in Matplotlib
 * Learner will effectively create and manipulate datasets
 * Learner will be confident solving boolean logic problems and will know how to use the Boolean outcomes in control structure.
-* Learner will apply loops in Python
 
 ## Course 4. Python in Data Science 
 
