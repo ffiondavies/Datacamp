@@ -8,12 +8,12 @@
 ## Track Outline
 -------------
 
-Course 1. Machine Learning for Beginners 
-Course 2. Introduction to Python 
-Course 3. Intermediate Python 
-Course 4. Python in Data Science
-Course 5. Statistical Thinking in Python
-Course 6. Supervised and Unsupervised Learning in Python
+1. Machine Learning for Beginners 
+2. Introduction to Python 
+3. Intermediate Python 
+4. Python in Data Science
+5. Statistical Thinking in Python
+6. Supervised and Unsupervised Learning in Python
 
 # Course Descriptions
 -------------------
