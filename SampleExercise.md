@@ -45,5 +45,5 @@ print(DogYears(6.5))
 Learning Objectives Tested
 --------------------------
 
-* Learner will be able to effectively use number datatypes.
+* Learner will be able to effectively use number data types.
 * Learner will be able to create and apply a function.
