@@ -40,7 +40,7 @@ Welcome to Introduction to Python. In this course, you will learn the basics of 
 
 * Learner will demonstrate and apply basic syntax and create variables
 * Learner will effectively store, access, and manipulate data in lists
-* Learner will apply functions, methods, and packages to improve efficiently 
+* Learner will create and apply functions, methods, and packages to improve efficiently 
 
 ## Course 3. Intermediate Python 
 
