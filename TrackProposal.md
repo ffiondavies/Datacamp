@@ -28,7 +28,7 @@ What is machine learning? This non technical course will answer all of those bas
 
 * Learner wil be able to define machine learning, limits and dangers, and its relation to data science and artificial intelligence
 * Learner will be able to explain the difference between the terms 'unsupervised' and 'supervised' learning
-* Leaner will construct a model and evaluate and improve this model
+
 
 ## Course 2. Introduction to Python (contain skill assessment here)
 
@@ -38,9 +38,9 @@ Welcome to Introduction to Python. In this course, you will learn the basics of 
 
 ###### Learning Objectives
 
-* Learner will understand and apply basic syntax and create variables
+* Learner will demonstrate and apply basic syntax and create variables
 * Learner will effectively store, access, and manipulate data in lists
-* Learner wil use functions, methods, and packages efficiently 
+* Learner will apply functions, methods, and packages to improve efficiently 
 
 ## Course 3. Intermediate Python 
 
@@ -50,9 +50,9 @@ Upgrade your python skills with Intermediate Python. Learning Python is essentia
 
 ###### Learning Objectives
 
-* Learner be able to build and customise plots in Matplotlib
-* Learner will effectively create and manipulate datasets
-* Learner will be confident solving boolean logic problems and will know how to use the Boolean outcomes in control structure.
+* Learner will be able to build and customise plots in Matplotlib
+* Learner will be able to effectively create and manipulate datasets
+* Learner will be able to apply Boolean outcomes in control structure.
 
 ## Course 4. Python in Data Science 
 
@@ -62,8 +62,8 @@ Now you know Python, lets apply it to data science! This course will teach you h
 
 ###### Learning Objectives
 
-* Learner will be able to understand and apply Functions with default arguments
-* Learner will effectively use iterators and iterables
+* Learner will be able to apply Functions with default arguments
+* Learner will be able to effectively use iterators and iterables
 
 ## Course 5. Statistical Thinking in Python
 
