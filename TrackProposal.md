@@ -30,23 +30,23 @@ What is machine learning? This non technical course will answer all of those bas
 * Learner will be able to explain the difference between the terms 'unsupervised' and 'supervised' learning
 
 
-## Course 2. Introduction to Python (contain skill assessment here)
+## Course 2. Introduction to Python 
 
 ###### Marketing Proposal
 
-Welcome to Introduction to Python. In this course, you will learn the basics of Python, one of the world's most popular and powerful general-purpose programming languages and how it can be applied to data science. You will take part in a skills assessment to test your knowledge!
+Welcome to Introduction to Python. In this course, you will learn the basics of Python, one of the world's most popular and powerful general-purpose programming languages and how it can be applied to data science. You will start by learning the very basics, from here, you'll build your knowledge incrementally until you're ready to start using functions and packages to improve efficiency in your code. You'll be able to test your progress step by step, having a go at challenges and receiving instant feedback and support. 
 
 ###### Learning Objectives
 
 * Learner will demonstrate and apply basic syntax and create variables
 * Learner will effectively store, access, and manipulate data in lists
-* Learner will create and apply functions, methods, and packages to improve efficiently 
+* Learner will create and apply functions, methods, and packages to improve efficiency 
 
 ## Course 3. Intermediate Python 
 
 ###### Marketing Proposal
 
-Upgrade your python skills with Intermediate Python. Learning Python is essential for any aspiring data science practitioner. In this course you will learn all about the exciting world of data visualization and data structures. Then, you'll get thrown into boolean logic, control flow, and loops in Python.
+Upgrade your Python skills with Intermediate Python. Learning Python is essential for any aspiring data science practitioner. In this course you will learn all about the exciting world of data visualization and data structures, helping you to make more sense of your data. Then, you'll get to practice applying boolean logic, control flow, and loops in Python.
 
 ###### Learning Objectives
 
@@ -69,7 +69,8 @@ Now you know Python, lets apply it to data science! This course will teach you h
 
 ###### Marketing Proposal
 
-After all of the hard work of acquiring data and getting them into a form you can work with, you ultimately want to make clear, succinct conclusions from them. This crucial last step of a data analysis pipeline hinges on the principles of statistical inference. In this course, you will start building the foundation you need to think statistically, speak the language of your data, and understand what your data is telling you. The foundations of statistical thinking took decades to build, but can be grasped much faster today with the help of computers. With the power of Python-based tools, you will rapidly get up-to-speed and begin thinking statistically by the end of this course.
+The power of statistics has been utilised for hundreds of years. However, computers have revolutionised statistical thinking, allowing us to process huge data sets in a near instant. In the era of big data, data science and machine learning have become essential in many fields of science and technology. A fundamental aspect of working with any data is the ability to describe, summarize, and represent data visually. In this course we will learn all about Python statistics libraries, a key tool that will assist you in working with data.
+
 
 ###### Learning Objectives
 
