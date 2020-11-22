@@ -13,7 +13,8 @@
 3. Intermediate Python 
 4. Python in Data Science
 5. Statistical Thinking in Python
-6. Supervised and Unsupervised Learning in Python
+6. Supervised Learning in Python
+7. Unsupervised Learning in Python
 
 # Course Descriptions
 -------------------
@@ -69,15 +70,16 @@ Now you know Python, lets apply it to data science! This course will teach you h
 
 ###### Marketing Proposal
 
-The power of statistics has been utilised for hundreds of years. However, computers have revolutionised statistical thinking, allowing us to process huge data sets in a near instant. In the era of big data, data science and machine learning have become essential in many fields of science and technology. A fundamental aspect of working with any data is the ability to describe, summarize, and represent data visually. In this course we will learn all about Python statistics libraries, a key tool that will assist you in working with data.
+The power of statistics has been utilised for hundreds of years. However, computers have revolutionised statistical thinking, allowing us to process huge data sets in a near instant. In the era of big data, data science and machine learning have become essential in many fields of science and technology. A fundamental aspect of working with any data is the ability to describe, summarize, and represent data visually. In this course we will learn all about using Pythons role in statistitical  analysis. 
 
 
 ###### Learning Objectives
 
-* 
-*
+* Learner will be able to  plot, interpret and adjust a histogram
+* Learner will be able to compute useful summary statistics including means, medians, variance, standard deviation, correlation coefficient and covariance
+* Learner will be able to think probabalistically and apply this knowledge to challenges using Python
 
-## Course 6. Supervised & Unsupervised learning in Python
+## Course 6. Supervised Learning in Python
 
 ###### Marketing Proposal
 
