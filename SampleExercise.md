@@ -4,7 +4,7 @@ Sample Exercise
 Context
 -------
 
-If you own a dog, you've probably heard this rule: 1 year for doggy equals 7 years for you. 
+If you own a dog, you've probably heard this rule: 1 year for a dog equals 7 years for you. 
 Turns out, the math isn't that simple. Dogs mature more quickly than we do early on. 
 So the first year of your fuzzy friend’s life is equal to about 15 human years.
 
