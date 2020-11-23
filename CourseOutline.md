@@ -39,7 +39,7 @@ Chapter 4: NumPy
 
 | Lesson | Objective | Description |
 | --------------- | --------------- | --------------- |
-|  1 | Learner will be able to compare numpy to lists, install and Import numpy, describe what numpy is and why we use it | What is numpy used for, why, what does it stand for. How numpy compares to lists. Why we use numpy in datascience |
+|  1 | Learner will be able to compare numpy to lists, install and import numpy, describe numpy and why we use it | What is numpy used for, why, what does it stand for. How numpy compares to lists. Why we use numpy in datascience |
 | 2 | Learner will be able to demonstrate using `np.array()` to create a numpy array, sort this and output values from the array | Introduction to `np.array()` concept, assigning results of function to array, printing out results of the variable, apply `np.sort()` |
 | 3 | Learner will be able to create and output values from a 2D array | Introduction to 2D arrays in Python, `ndarray` class in NumPy. Create a basic array using `np.array()` |
 | 4 | Learner will be able to illustrate taking a section of specific array elements to use in further analysis by subsetting and slicing | Introduce learner to selecting a range of values from an array using subsets, slice elements from two-dimensional arrays `[row_index, column_index]`. Slice multiple elements using: `[start_row_index:end_row_index, start_column_index:end_column_index]`
