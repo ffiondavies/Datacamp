@@ -59,7 +59,12 @@ Lesson 3.4: Packages
 
 Chapter 4: NumPy
 ----------------------------------------------
----
+| Lesson  | Objective | Description
+| ------------- | ------------- |
+|1. Arrays | Learner will be able to install and Import NumPy, decribe what numpy is and why we use it  | What is numpy used for, why, what does it stand for. How numpy compares to lists. Why we use numpy in datascience.
+| 2. 2d Arrays |Content Cell  | Content Cell  | 
+
+
 Title: Lesson 4.1: Introduction to NumPy
 Objective: * Learner will be able to install and Import NumPy, decribe what numpy is and why we use it
 Description: * What is numpy used for, why, what does it stand for. How numpy compares to lists. Why we use numpy in datascience.
