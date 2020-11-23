@@ -24,11 +24,9 @@ Lesson 2.1: Creating lists and Storing Data
 * Learner will be able to create and interpret a list
 * Create and output lists of different data types 
 
-
 Lesson 2.2: Accessing Data
 * Learner will be able to illustrate accessing data in lists
 * Introduction to indexing, negative indexing, range of indexing and checking if data exists `in` a list
-
 
 Lesson 2.3: Manipulating Data & Joinging lists
 * Learner will be able to illustrate manipulating data in lists
@@ -41,9 +39,17 @@ Lesson 2.4: Sorting Data
 Chapter 3: Improving efficiency 
 ------------------------------------------------
 
-1. Learner will be able to create and import functions
+Lesson 3.1
+1. Learner will be able to create functions and import modules
+
+
+Lesson 3.2
 2. Learner will be able to use functions to improve efficiency of code
+
+Lesson 3.3
 3. Learner will be able to use methods to improve efficiency of code
+
+Lesson 3.4
 4. Learner will be able to import and apply packages to improve efficiency of code
 
 
