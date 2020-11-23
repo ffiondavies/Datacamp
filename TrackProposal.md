@@ -88,18 +88,18 @@ Machine learning is all about extracting knowledge from existing data and making
 
 ###### Learning Objectives
 
-1.	Learner will be able to load the Iris Dataset using scikit learn
-2.	Learner will be able to apply a Regression Model to the Iris dataset and classify species of the Iris
-3.	Learner will be able to explore results by changing model parameters to evaluate and improve model performance
+* Learner will be able to load the Iris Dataset using scikit learn
+* Learner will be able to apply a Regression Model to the Iris dataset and classify species of the Iris
+* Learner will be able to explore results by changing model parameters to evaluate and improve model performance
 
 
 ## Course 7. Unsupervised Learning
 
 In this course, we will continue to use the Iris dataset, we’ll use this along with other real-life datasets to make predictions. As you will know from ‘Supervised Machine Learning’ The dataset contains 150 records under four attributes and three iris classes. We’ll feed the four features of our flower to the unsupervised algorithm and it will predict which class the iris belongs to. We’ll use the scikit-learn library in Python to load the Iris dataset and matplotlib for data visualization. Then, we’ll apply this learning to a range of real life datasets. 
 
-1.	Learner can use K-means clustering in Python to predict flower species
-2.	Learner can apply clustering to a range of different data sets
-3.	Learner will be able to apply Principal Component Analysis to the dataset
+* Learner can use K-means clustering in Python to predict flower species
+* Learner can apply clustering to a range of different data sets
+* Learner will be able to apply Principal Component Analysis to the dataset
 
 
 
