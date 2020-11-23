@@ -8,6 +8,17 @@
 ## Track Outline
 -------------
 
+| Course |  Name |
+| --------------- | --------------- |
+| 1 | Machine Learning for Beginners | 
+| 2 | Introduction to Python  | 
+| 3 | Intermediate Python |
+| 4 | Python in Data Science |
+| 5 | Statistical Thinking |
+| 6 | Supervised Learning |
+| 7 | Unsupervised Learning |
+
+
 1. Machine Learning for Beginners 
 2. Introduction to Python 
 3. Intermediate Python 
