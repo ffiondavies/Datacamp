@@ -6,7 +6,7 @@ Chapter 1: Syntax
 
 Lesson 1.1: Syntax
 * Learner will be able to identify and use and correct Python syntax to solve problems
-* Introduction to Python interface, outputing a message, variables, data types
+* Introduction to Python interface, outputing a message
 
 Lesson 1.2: Calulator
 * Learner will be able to use Python to calculate simple math problems
