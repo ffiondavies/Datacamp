@@ -28,7 +28,7 @@ Lesson 2.2: Accessing Data
 * Learner will be able to illustrate accessing data in lists
 * Introduction to indexing, negative indexing, range of indexing and checking if data exists `in` a list
 
-Lesson 2.3: Manipulating Data & Joinging lists
+Lesson 2.3: Manipulating Data & Joining lists
 * Learner will be able to illustrate manipulating data in lists
 * Change, add and remove list items: `append()` `insert()` `extend()` `remove()` `del()` `clear()`. Join lists using `+` and `extend()`
 
@@ -39,18 +39,21 @@ Lesson 2.4: Sorting Data
 Chapter 3: Improving efficiency 
 ------------------------------------------------
 
-Lesson 3.1
-1. Learner will be able to create functions and import modules
+Lesson 3.1: Creating Functions
+* Learner will be able to create functions and receive arguments
+* Create a function using `def`, pass variables, and `return` variables
 
+Lesson 3.2: Calling Functions
+* Learner will be able to use import existing functions to improve efficiency of code
+* Call existing functions in a block of code
 
-Lesson 3.2
-2. Learner will be able to use functions to improve efficiency of code
+Lesson 3.3: Creating & Importing Modules
+* Learner will be able to write and import existing modules to improve efficiency of code
+* Introduction to writing modules `.py` and importing modules, introduction to built-in modules 
 
-Lesson 3.3
-3. Learner will be able to use methods to improve efficiency of code
-
-Lesson 3.4
-4. Learner will be able to import and apply packages to improve efficiency of code
+Lesson 3.4: Packages
+* Learner will be able to organise modules into packages and sub packages
+* What is a package and why we use them, how to create a package to store modules, how to control package initialization
 
 
 Chapter 4: NumPy
