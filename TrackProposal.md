@@ -93,6 +93,6 @@ Machine learning is all about extracting knowledge from existing data and making
 3.	Learner will be able to explore results by changing model parameters to evaluate and improve model performance
 
 
-## Course 6. Unsupervised Learning
+## Course 7. Unsupervised Learning
 
 
