@@ -88,7 +88,7 @@ Machine learning is all about extracting knowledge from existing data and making
 
 ###### Learning Objectives
 
-* Learner will be able to load the Iris Dataset using scikit learn
+* Learner will be able to implement the key concepts of supervised learning on the Iris dataset
 * Learner will be able to apply a Regression Model to the Iris dataset and classify species of the Iris
 * Learner will be able to explore results by changing model parameters to evaluate and improve model performance
 
