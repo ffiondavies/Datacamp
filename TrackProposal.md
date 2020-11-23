@@ -24,8 +24,7 @@
 
 | Course |  Marketing Proposal  | Learning Objectives |
 | --------------- | --------------- | --------------- |
-| 1 | What is machine learning? This non technical course will answer all of those basic machine learning questions that you don't want to ask, because you don't have to be a coding expert to understand machine learning!  | * Learner wil be able to define machine learning, limits and dangers, and its relation to data science and artificial intelligence
-* Learner will be able to explain the difference between the terms 'unsupervised' and 'supervised' learning |
+| 1 | What is machine learning? This non technical course will answer all of those basic machine learning questions that you don't want to ask, because you don't have to be a coding expert to understand machine learning!  | 1. Learner wil be able to define machine learning, limits and dangers, and its relation to data science and artificial intelligence. 2. Learner will be able to explain the difference between the terms 'unsupervised' and 'supervised' learning |
 
 ###### Marketing Proposal
 
