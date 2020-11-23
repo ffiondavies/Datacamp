@@ -4,17 +4,35 @@ Course: Introduction to Python
 Chapter 1: Syntax
 -------------------------------------------------------
 
-1. Learner will be able to identify and use and correct Python syntax to solve problems
-2. Learner will be able to use Python to calculate simple math problems
-3. Learner will be able to create and apply variables 
+Lesson 1.1: Syntax
+* Learner will be able to identify and use and correct Python syntax to solve problems
+* Introduction to Python interface, outputing a message, variables, data types
+
+Lesson 1.2: Calulator
+* Learner will be able to use Python to calculate simple math problems
+* Using Python as a calulator: `+`,`-`, `*`, `/`, `%`, `**` 
+
+Lesson 1.3: Varibles
+* Learner will be able to create and use variables to output a result
+* Introduction to varible types `int`, ` float`, `str`, `bool`and concatenating different data types
 
 
 Chapter 2: Lists
 -----------------------------------
-1. Learner will be able to create a list
-2. Learner will be able to illustrate storing data in lists
-3. Learner will be able to illustrate accessing data in lists
-4. Learner will be able to illustrate manipulating data in lists
+
+Lesson 2.1: Creating lists and Sotring Data
+* Learner will be able to create and interpret a list
+* Create and output lists of different data types 
+
+
+Lesson 2.2: Accessing Data
+* Learner will be able to illustrate accessing data in lists
+* Introduction to indexing, negative indexing, range of indexing and checking if data exists `in` a list
+
+
+Lesson 2.3: Manipulating Data
+* Learner will be able to illustrate manipulating data in lists
+* Change, add and remove list items: `append()` `insert()` `extend()` `remove()` `del()` `clear()`
 
 Chapter 3: Improving efficiency 
 ------------------------------------------------
