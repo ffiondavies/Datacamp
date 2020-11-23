@@ -34,12 +34,12 @@ What is machine learning? This non-technical course will answer all of those bas
 
 ###### Marketing Proposal
 
-Welcome to Introduction to Python. In this course, you will learn the basics of Python, one of the world's most popular and powerful general-purpose programming languages and how it can be applied to data science. You will start by learning the very basics, from here, you'll build your knowledge incrementally until you're ready to start using functions and packages to improve efficiency in your code. You'll be able to test your progress step by step, having a go at challenges and receiving instant feedback and support. 
+In this course, you will learn the basics of Python, one of the world's most popular and powerful general-purpose programming languages and how it can be applied to data science. You will start by learning the very basics, from here, you'll build your knowledge incrementally until you're ready to start using functions and packages to improve efficiency in your code. You'll be able to test your progress step by step, having a go at challenges and receiving instant feedback and support. 
 
 ###### Learning Objectives
 
 * Learner will demonstrate and apply Python syntax successfully to a range of problems and data types 
-* Learner will effectively store, access, and manipulate data in lists
+* Learner will demonstrate storing, accessing, and manipulating data in lists
 * Learner will create and apply functions, methods, and packages to improve efficiency 
 
 ## Course 3. Intermediate Python 
@@ -50,9 +50,9 @@ Upgrade your Python skills with Intermediate Python. Learning Python is essentia
 
 ###### Learning Objectives
 
-* Learner will be able to build and customise plots in Matplotlib
+* Learner will be able to demonstrate building and customising plots in Matplotlib
 * Learner will be able to effectively create and manipulate datasets
-* Learner will be able to apply Boolean outcomes in control structure.
+* Learner will be able to apply Boolean outcomes in control structure
 
 ## Course 4. Python in Data Science 
 
@@ -62,7 +62,7 @@ Now you know Python, lets apply it to data science! This course will teach you h
 
 ###### Learning Objectives
 
-* Learner will be able to apply Functions with default arguments
+* Learner will be able to apply functions with default arguments
 * Learner will be able to effectively use iterators and iterables
 
 ## Course 5. Statistical Thinking in Python
@@ -74,30 +74,30 @@ The power of statistics has been utilised for hundreds of years. However, comput
 
 ###### Learning Objectives
 
-* Learner will be able to plot, interpret and adjust a histogram
-* Learner will be able to compute useful summary statistics including means, medians, variance, standard deviation, correlation coefficient and covariance
-* Learner will be able to think probabilistically and apply this knowledge to challenges using Python
+* Learner will be able to interpret plot and adjust a histogram
+* Learner will be able to describe useful summary statistics including means, medians, variance, standard deviation, correlation coefficient and covariance and calculate these using Python.
+* Learner will be able to demonstrate thinking probabilistically and apply this knowledge to challenges using Python
 
 ## Course 6. Supervised Learning
 
 ###### Marketing Proposal
 
 
-Machine learning is all about extracting knowledge from existing data and making predictions on new data. The application of machine learning methods has become present in everyday life. From recommendations of which films to watch, to which products to buy, to recognising your friends on social media. In this course, you will learn how to use scikit-learn in Python, to perform supervised learning on the Iris Species dataset - a typical test case for many statistical classification techniques and also known as the ‘Hello World’ of machine learning – so, a great place to start! You will use supervised learning models to predict the correct label for newly presented input data in the dataset, evaluate your models performance and fine-tune this to improve effectiveness. 
+Machine learning is all about extracting knowledge from existing data and making predictions on new data. The application of machine learning methods has become present in everyday life. From recommendations of which films to watch, to recognising your friends on social media. In this course, you will learn how to use scikit-learn in Python, to perform supervised learning on the Iris Species dataset - a typical test case for many statistical classification techniques and also known as the ‘Hello World’ of machine learning – a great place to start! You will use supervised learning models to predict the correct label for newly presented input data in the dataset, evaluate your models performance and fine-tune this to improve effectiveness. 
 
 ###### Learning Objectives
 
-* Learner will be able to implement the key concepts of supervised learning on the Iris dataset
+* Learner will be able to apply the key concepts of supervised learning on the Iris dataset
 * Learner will be able to apply a Regression Model to the Iris dataset and classify species of the Iris
-* Learner will be able to explore results by changing model parameters to evaluate and improve model performance
+* Learner will be able to manipulate results by changing model parameters to evaluate and improve model performance
 
 
 ## Course 7. Unsupervised Learning
 
-In this course, we will continue to use the Iris dataset, we’ll use this along with other real-life datasets to make predictions. As you will know from ‘Supervised Machine Learning’ The dataset contains 150 records under four attributes and three iris classes. We’ll feed the four features of our flower to the unsupervised algorithm and it will predict which class the iris belongs to. We’ll use the scikit-learn library in Python to load the Iris dataset and matplotlib for data visualization. Then, we’ll apply this learning to a range of real life datasets. 
+Unsupervised learning occurs when an algorithm learns from plain examples without any associated response, leaving the algorithm to determine the data patterns on its own. Unsupervised learning can provide humans with insights into the meaning of data and new useful inputs to supervised machine learning algorithms. Unsupervised learning can be used to create powerful forms of marketing automation. In this course, we’ll use the Iris dataset along with other real-life datasets to make predictions using unsupervised learning. We’ll feed the four features of our flower to the unsupervised algorithm and it will predict which class the iris belongs to. 
 
-* Learner can use K-means clustering in Python to predict flower species
-* Learner can apply clustering to a range of different data sets
+* Learner will be able to apply K-means clustering in Python to predict flower species
+* Learner will be able to apply clustering algorithms to a range of different data sets
 * Learner will be able to apply Principal Component Analysis to the dataset
 
 
