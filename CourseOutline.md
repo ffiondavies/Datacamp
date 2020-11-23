@@ -24,17 +24,18 @@ Lesson 2.1: Creating lists and Storing Data
 * Learner will be able to create and interpret a list
 * Create and output lists of different data types 
 
-Lesson 2.2: Accessing Data
+Lesson 2.2: Accessing Data, Indexing and Slicing
 * Learner will be able to illustrate accessing data in lists
-* Introduction to indexing, negative indexing, range of indexing and checking if data exists `in` a list
+* Introduction to indexing, negative indexing, range of indexing and checking if data exists `in` a list. `slice()` function to slice a sequence
 
-Lesson 2.3: Manipulating Data & Joining lists
+Lesson 2.3: Sorting Data 
+* Learner will effectively sort data from lists using a range of sorting methods
+* `sort()` lists alaphbetically, numerically, descending, case insensitive, reverse order
+
+Lesson 2.4: Manipulating Data
 * Learner will be able to illustrate manipulating data in lists
 * Change, add and remove list items: `append()` `insert()` `extend()` `remove()` `del()` `clear()`. Join lists using `+` and `extend()`
 
-Lesson 2.4: Sorting Data 
-* Learner will effectively sort data from lists using a range of sorting methods
-* `sort()` lists alaphbetically, numerically, descending, case insensitive, reverse order
 
 Chapter 3: Improving efficiency 
 ------------------------------------------------
@@ -52,14 +53,26 @@ Lesson 3.3: Creating & Importing Modules
 * Introduction to writing modules `.py` and importing modules, introduction to built-in modules 
 
 Lesson 3.4: Packages
-* Learner will be able to organise modules into packages and sub packages
-* What is a package and why we use them, how to create a package to store modules, how to control package initialization
+* Learner will be able to organise modules into packages and sub packages and import existing packages
+* What is a package and why we use them, how to create a package to store modules, how to control package initialization, existing packages
 
 
 Chapter 4: NumPy
 ----------------------------------------------
 
-1. Learner will be able to decribe what NumPy is and why we use it
-2. Learner will be able to create an array
-3. Learner will be able to select elements from 2D and 3D arrays
-4. Learner will be able to demonstrate searching, sorting and filtering arrays
+Lesson 4.1: Introduction to NumPy
+* Learner will be able to install and Import NumPy, decribe what NumPy is and why we use it
+* What is NumPy used for, why, what does it stand for. Why we use NumPy in datascience - arrays are frequently used and speed is very important. NumPy is faster than lists. Where to find the codebase and how to install. 
+
+
+Lesson 4.2: Arrays
+* Learner will be able to create a NumPy array
+* Create Python lists and import NumPy package, create NumPy arrays out of the lists created. 
+
+Lesson 4.3: 2D Arrays
+* Learner will be able to create, sort, search and modify elements from 2D arrays
+* Introduction to 2D arrays in Python, `ndarray` class in NumPy. Create a basic array using `np.array()` apply `np.sort()` 
+
+Lesson 4.4: Subsets
+* Learner will be able to demonstrate searching, sorting and filtering arrays
+* 
