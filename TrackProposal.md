@@ -4,10 +4,6 @@
 
 # Machine Learning with Python
 
-
-## Track Outline
--------------
-
 | Course |  Name |
 | --------------- | --------------- |
 | 1 | Machine Learning for Beginners | 
@@ -19,18 +15,17 @@
 | 7 | Unsupervised Learning |
 
 
-1. Machine Learning for Beginners 
-2. Introduction to Python 
-3. Intermediate Python 
-4. Python in Data Science
-5. Statistical Thinking 
-6. Supervised Learning 
-7. Unsupervised Learning 
-
 # Course Descriptions
 -------------------
 
+
+
 ## Course 1. Machine Learning for Beginners
+
+| Course |  Marketing Proposal  | Learning Objectives
+| --------------- | --------------- |
+| 1 | What is machine learning? This non technical course will answer all of those basic machine learning questions that you don't want to ask, because you don't have to be a coding expert to understand machine learning!  | * Learner wil be able to define machine learning, limits and dangers, and its relation to data science and artificial intelligence
+* Learner will be able to explain the difference between the terms 'unsupervised' and 'supervised' learning
 
 ###### Marketing Proposal
 
