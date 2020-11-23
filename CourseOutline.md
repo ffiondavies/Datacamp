@@ -1,9 +1,9 @@
 Course: Introduction to Python
 ================================
 
-| Lesson | Column 2 Header | Column 3 Header |
+| Lesson | Objective | Description |
 | --------------- | --------------- | --------------- |
-|  1 | Row 1 Column 2 | Row 1 Column 3 |
+|  1 | Learner will be able to use basic Python syntax to output a message and describe why we use Python | Introduction to what Python is, Python interface, outputing a message `print` & commenting `#`. |
 | 2 | Row 2 Column 2 | Row 2 Column 3 |
 | 3 | Row 3 Column 2 | Row 3 Column 3 |
 
