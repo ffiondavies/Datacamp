@@ -83,16 +83,16 @@ The power of statistics has been utilised for hundreds of years. However, comput
 
 ###### Marketing Proposal
 
-Supervised: Machine learning is the field that teaches machines and computers to learn from existing data to make predictions on new data: Will a tumor be benign or malignant? Which of your customers will take their business elsewhere? Is a particular email spam? In this course, you'll learn how to use Python to perform supervised learning, an essential component of machine learning. You'll learn how to build predictive models, tune their parameters, and determine how well they will perform with unseen data—all while using real world datasets. You'll be using scikit-learn, one of the most popular and user-friendly machine learning libraries for Python.
 
-Unsupervised: Say you have a collection of customers with a variety of characteristics such as age, location, and financial history, and you wish to discover patterns and sort them into clusters. Or perhaps you have a set of texts, such as wikipedia pages, and you wish to segment them into categories based on their content. This is the world of unsupervised learning, called as such because you are not guiding, or supervising, the pattern discovery by some prediction task, but instead uncovering hidden structure from unlabeled data. Unsupervised learning encompasses a variety of techniques in machine learning, from clustering to dimension reduction to matrix factorization. In this course, you'll learn the fundamentals of unsupervised learning and implement the essential algorithms using scikit-learn and scipy. You will learn how to cluster, transform, visualize, and extract insights from unlabeled datasets, and end the course by building a recommender system to recommend popular musical artists
-
-
-
+Machine learning is all about extracting knowledge from existing data and making predicitions on new data. The application of machine learning methods has become present in everyday life. From recommendations of which films to watch, to which products to buy, to recognising your friends on social media. In this course, you will learn how to use scikit-learn in Python, to perform supervised learning on the Iris Species dataset - a typical test case for many statistical classification techniques and also known as the ‘Hello World’ of machine learning – so, a great place to start! You will use supervised learning models to predict the correct label for newly presented input data in the dataset, evaluate your models performance and fine-tune this to improve effectiveness. 
 
 ###### Learning Objectives
 
-* Learner will end course with an assessment on Machine Learning in Python
+1.	Learner will be able to load the iris dataset using scikit learn
+2.	Learner will be able to apply a Linear Regression Model to the Iris dataset and classify species of the Iris
+3.	Learner will be able to explore results by changing model parameters to evaluate and improve model performance
+
+
 
 
 
