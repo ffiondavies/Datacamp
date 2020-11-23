@@ -4,15 +4,15 @@ Course: Introduction to Python
 Chapter 1: Syntax
 -------------------------------------------------------
 
-Lesson 1.1: Syntax
-* Learner will be able to identify and use and correct Python syntax to solve problems
-* Introduction to Python interface, outputing a message
+Lesson 1.1: Introduction
+* Learner will be able to use basic Python syntax to output a message and describe why we use Python
+* Introduction to what Python is, Python interface, outputing a message `print` & commenting `#`. 
 
 Lesson 1.2: Calulator
 * Learner will be able to use Python to calculate simple math problems
 * Using Python as a calulator: `+` `-` `*`  `/`  `%`  `**` 
 
-Lesson 1.3: Varibles 
+Lesson 1.3: Variables 
 * Learner will be able to create and use variables to output a result using various assignment operators and data types
 * Introduction to varible types `int`  ` float`  `str`  `bool`and concatenating different data types. Operators such as, `=` `*=` `/=`
 
