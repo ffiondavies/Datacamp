@@ -18,21 +18,15 @@
 # Course Descriptions
 -------------------
 
-
-
 ## Course 1. Machine Learning for Beginners
-
-| Course |  Marketing Proposal  | Learning Objectives |
-| --------------- | --------------- | --------------- |
-| 1 | What is machine learning? This non technical course will answer all of those basic machine learning questions that you don't want to ask, because you don't have to be a coding expert to understand machine learning!  | 1. Learner wil be able to define machine learning, limits and dangers, and its relation to data science and artificial intelligence. 2. Learner will be able to explain the difference between the terms 'unsupervised' and 'supervised' learning |
 
 ###### Marketing Proposal
 
-What is machine learning? This non technical course will answer all of those basic machine learning questions that you don't want to ask, because you don't have to be a coding expert to understand machine learning! 
+What is machine learning? This non-technical course will answer all of those basic machine learning questions that you don't want to ask, because you don't have to be a coding expert to understand machine learning! 
 
 ###### Learning Objectives
 
-* Learner wil be able to define machine learning, limits and dangers, and its relation to data science and artificial intelligence
+* Learner will be able to define machine learning, limits and dangers, and its relation to data science and artificial intelligence
 * Learner will be able to explain the difference between the terms 'unsupervised' and 'supervised' learning
 
 
@@ -44,7 +38,7 @@ Welcome to Introduction to Python. In this course, you will learn the basics of 
 
 ###### Learning Objectives
 
-* Learner will demonstrate and apply basic syntax and create variables
+* Learner will demonstrate and apply Python syntax successfully to a range of problems and data types 
 * Learner will effectively store, access, and manipulate data in lists
 * Learner will create and apply functions, methods, and packages to improve efficiency 
 
@@ -75,21 +69,21 @@ Now you know Python, lets apply it to data science! This course will teach you h
 
 ###### Marketing Proposal
 
-The power of statistics has been utilised for hundreds of years. However, computers have revolutionised statistical thinking, allowing us to process huge data sets in a near instant. In the era of big data, data science and machine learning have become essential in many fields of science and technology. A fundamental aspect of working with any data is the ability to describe, summarize, and represent data visually. In this course we will learn all about using Pythons role in statistitical  analysis. 
+The power of statistics has been utilised for hundreds of years. However, computers have revolutionised statistical thinking, allowing us to process huge data sets in a near instant. In the era of big data, data science and machine learning have become essential in many fields of science and technology. A fundamental aspect of working with any data is the ability to describe, summarize, and represent data visually. In this course we will learn all about using Pythons role in statistical analysis. 
 
 
 ###### Learning Objectives
 
-* Learner will be able to  plot, interpret and adjust a histogram
+* Learner will be able to plot, interpret and adjust a histogram
 * Learner will be able to compute useful summary statistics including means, medians, variance, standard deviation, correlation coefficient and covariance
-* Learner will be able to think probabalistically and apply this knowledge to challenges using Python
+* Learner will be able to think probabilistically and apply this knowledge to challenges using Python
 
 ## Course 6. Supervised Learning
 
 ###### Marketing Proposal
 
 
-Machine learning is all about extracting knowledge from existing data and making predicitions on new data. The application of machine learning methods has become present in everyday life. From recommendations of which films to watch, to which products to buy, to recognising your friends on social media. In this course, you will learn how to use scikit-learn in Python, to perform supervised learning on the Iris Species dataset - a typical test case for many statistical classification techniques and also known as the ‘Hello World’ of machine learning – so, a great place to start! You will use supervised learning models to predict the correct label for newly presented input data in the dataset, evaluate your models performance and fine-tune this to improve effectiveness. 
+Machine learning is all about extracting knowledge from existing data and making predictions on new data. The application of machine learning methods has become present in everyday life. From recommendations of which films to watch, to which products to buy, to recognising your friends on social media. In this course, you will learn how to use scikit-learn in Python, to perform supervised learning on the Iris Species dataset - a typical test case for many statistical classification techniques and also known as the ‘Hello World’ of machine learning – so, a great place to start! You will use supervised learning models to predict the correct label for newly presented input data in the dataset, evaluate your models performance and fine-tune this to improve effectiveness. 
 
 ###### Learning Objectives
 
