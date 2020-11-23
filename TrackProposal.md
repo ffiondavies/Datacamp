@@ -12,9 +12,9 @@
 2. Introduction to Python 
 3. Intermediate Python 
 4. Python in Data Science
-5. Statistical Thinking in Python
-6. Supervised Learning in Python
-7. Unsupervised Learning in Python
+5. Statistical Thinking 
+6. Supervised Learning 
+7. Unsupervised Learning 
 
 # Course Descriptions
 -------------------
@@ -79,7 +79,7 @@ The power of statistics has been utilised for hundreds of years. However, comput
 * Learner will be able to compute useful summary statistics including means, medians, variance, standard deviation, correlation coefficient and covariance
 * Learner will be able to think probabalistically and apply this knowledge to challenges using Python
 
-## Course 6. Supervised Learning in Python
+## Course 6. Supervised Learning
 
 ###### Marketing Proposal
 
@@ -93,6 +93,6 @@ Machine learning is all about extracting knowledge from existing data and making
 3.	Learner will be able to explore results by changing model parameters to evaluate and improve model performance
 
 
-
+## Course 6. Unsupervised Learning
 
 
