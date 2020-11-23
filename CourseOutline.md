@@ -10,17 +10,17 @@ Lesson 1.1: Syntax
 
 Lesson 1.2: Calulator
 * Learner will be able to use Python to calculate simple math problems
-* Using Python as a calulator: `+`,`-`, `*`, `/`, `%`, `**` 
+* Using Python as a calulator: `+` `-` `*`  `/`  `%`  `**` 
 
-Lesson 1.3: Varibles
-* Learner will be able to create and use variables to output a result
-* Introduction to varible types `int`, ` float`, `str`, `bool`and concatenating different data types
+Lesson 1.3: Varibles 
+* Learner will be able to create and use variables to output a result using various assignment operators and data types
+* Introduction to varible types `int`  ` float`  `str`  `bool`and concatenating different data types. Operators such as, `=` `*=` `/=`
 
 
 Chapter 2: Lists
 -----------------------------------
 
-Lesson 2.1: Creating lists and Sotring Data
+Lesson 2.1: Creating lists and Storing Data
 * Learner will be able to create and interpret a list
 * Create and output lists of different data types 
 
@@ -30,9 +30,13 @@ Lesson 2.2: Accessing Data
 * Introduction to indexing, negative indexing, range of indexing and checking if data exists `in` a list
 
 
-Lesson 2.3: Manipulating Data
+Lesson 2.3: Manipulating Data & Joinging lists
 * Learner will be able to illustrate manipulating data in lists
-* Change, add and remove list items: `append()` `insert()` `extend()` `remove()` `del()` `clear()`
+* Change, add and remove list items: `append()` `insert()` `extend()` `remove()` `del()` `clear()`. Join lists using `+` and `extend()`
+
+Lesson 2.4: Sorting Data 
+* Learner will effectively sort data from lists using a range of sorting methods
+* `sort()` lists alaphbetically, numerically, descending, case insensitive, reverse order
 
 Chapter 3: Improving efficiency 
 ------------------------------------------------
