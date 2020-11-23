@@ -59,20 +59,21 @@ Lesson 3.4: Packages
 
 Chapter 4: NumPy
 ----------------------------------------------
-
-Lesson 4.1: Introduction to NumPy
-* Learner will be able to install and Import NumPy, decribe what NumPy is and why we use it
-* What is NumPy used for, why, what does it stand for. Why we use NumPy in datascience - arrays are frequently used and speed is very important. NumPy is faster than lists. Where to find the codebase and how to install. 
-
+---
+Title: Lesson 4.1: Introduction to NumPy
+Objective: * Learner will be able to install and Import NumPy, decribe what numpy is and why we use it
+Description: * What is numpy used for, why, what does it stand for. How numpy compares to lists. Why we use numpy in datascience.
+---
 
 Lesson 4.2: Arrays
-* Learner will be able to create a NumPy array
-* Create Python lists and import NumPy package, create NumPy arrays out of the lists created. 
+* Learner will be able to use `np.array()` to create a numpy array, sort this and output values from the array
+* Introduction to `np.array()` concept, assigning results of function to array, printing out results of the variable, apply `np.sort()` 
+
 
 Lesson 4.3: 2D Arrays
-* Learner will be able to create, sort, search and modify elements from 2D arrays
-* Introduction to 2D arrays in Python, `ndarray` class in NumPy. Create a basic array using `np.array()` apply `np.sort()` 
+* Learner will be able to create and output values from a 2D array
+* Introduction to 2D arrays in Python, `ndarray` class in NumPy. Create a basic array using `np.array()` 
 
-Lesson 4.4: Subsets
-* Learner will be able to demonstrate searching, sorting and filtering arrays
-* 
+Lesson 4.4: Subsets & Slicing
+* Learner will be able to take a section of specific array elements to use in further analysis by subsetting and slicing 
+* Introduce learner to selecting a range of values from an array using subsets
