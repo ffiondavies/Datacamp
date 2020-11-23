@@ -6,7 +6,7 @@ Chapter 1: Syntax
 
 | Lesson | Objective | Description |
 | --------------- | --------------- | --------------- |
-|  1 | Learner will be able to apply basic Python syntax to output a message and describe why we use Python | Introduction to what Python is, Python interface, outputying a message `print` & commenting `#`. |
+|  1 | Learner will be able to apply basic Python syntax to output a message and describe why we use Python | Introduction to what Python, Python interface, outputting a message `print` & commenting `#`. |
 | 2 | Learner will be able to apply Python syntax to calculate simple math problems | Using Python as a calculator: `+` `-` `*`  `/`  `%`  `**`  |
 | 3 | Learner will be able to create and use variables to output a result using various assignment operators and data types | Introduction to variable types `int`  ` float`  `str`  `bool`and concatenating different data types. Operators such as, `=` `*=` `/=` |
 
