@@ -128,10 +128,10 @@ Description
 
 **Lesson 3**
 
-**Objective:** 
+Objective:
 Learner will be able to demonstrate downloading and installing packages using PIP
 
-**Description:**
+Description:
 
 * What is a package
 * Install a package
