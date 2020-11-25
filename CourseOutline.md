@@ -47,7 +47,6 @@ Description:
 * Nesting
 
 
-
 Chapter 2: Arrays & Lists
 -----------------------------------
 
@@ -95,9 +94,6 @@ Description:
 
 * Global data structures 
 * Local data structures 
-
-
-
 
 
 Chapter 3: Python Modules
@@ -148,8 +144,6 @@ Description:
 * Matplotlib
 * Pandas
 * Numpy
-
-
 
 
 Chapter 4: NumPy
