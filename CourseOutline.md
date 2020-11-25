@@ -126,7 +126,7 @@ Description
 * `abs()`
 * `math.sqrt()`
 
-**Lesson 3 **
+**Lesson 3**
 
 **Objective:** 
 Learner will be able to demonstrate downloading and installing packages using PIP
@@ -138,7 +138,7 @@ Learner will be able to demonstrate downloading and installing packages using PI
 * `list()` packages
 
 
-**Lesson 4 **
+**Lesson 4**
 
 Objective:
 Learner will be able to demonstrate importing modules and describe their use 
