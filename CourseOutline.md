@@ -27,7 +27,7 @@ Description:
 * Functions, parameters, variables, constants, concatenation 
 * Storing user input
 * Datatypes 
-* Integers & decimals, casting random, output formatting, mod, div , string manipulation functions
+* Integers & decimals, casting random, output formatting, mod, div, string manipulation, functions
 * Defining an identifier 
 * Calculator
 * Assigning variables  
