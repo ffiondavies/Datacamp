@@ -6,10 +6,10 @@ Chapter 1: Writing Structured Programs & Using Variables
 
 **Lesson 1.**
 
-**Objective:** 
+Objective: 
 Learner will be able to demonstrate creating a function in Python 
 
-**Description:** 
+Description:
 
 * Comments are identified with the hash `#` symbol
 * Subroutines `def`
@@ -19,15 +19,15 @@ Learner will be able to demonstrate creating a function in Python
 
 **Lesson 2.**
 
-**Objective:** 
+Objective:
 Learner will be able to demonstrate using variables, creating constants, and concatenation with various datatypes
 
-**Description:**
+Description:
 
-* Functions, Parameters, Variables, Constants, Concatenation 
+* Functions, parameters, variables, constants, concatenation 
 * Storing user input
 * Datatypes 
-* Integers & decimals, Casting Random, Output formatting, Mod, Div , string manipulation functions
+* Integers & decimals, casting random, output formatting, mod, div , string manipulation functions
 * Defining an identifier 
 * Calculator
 * Assigning variables  
@@ -36,10 +36,10 @@ Learner will be able to demonstrate using variables, creating constants, and con
 
 **Lesson 3.**
 
-**Objective:** 
+Objective: 
 Learner will demonstrate using controlled iterations
 
-**Description:**
+Description:
 
 * `while` `do`
 * `Counter-controlled` iterations
@@ -53,10 +53,10 @@ Chapter 2: Arrays & Lists
 
 **Lesson 1.**
 
-**Objective:** 
+Objective:
 Learner will be able to demonstrate interpreting arrays and lists effectively and describe the difference between and array and a list
 
-**Description:**
+Description:
 
 * E.g. Variables can only contain one value. Sometimes it would be useful if a single identifier could hold multiple items. E.g. names of students in a class, or in this example, words in a sentence. A list is an alternative to a variable that does this
 * Data types
@@ -67,10 +67,10 @@ Learner will be able to demonstrate interpreting arrays and lists effectively an
 
 **Lesson 2.**
 
-**Objective:** 
+Objective:
 Learner will be able to create and output the contents of a list 
 
-**Description:**
+Description:
 
 * e.g. Function to output the contents of a list called sentence `def OutputList(Sentence):`
 * Learner will apply knowledge of elements & indexing
@@ -79,22 +79,22 @@ Learner will be able to create and output the contents of a list
 
 **Lesson 4.**
 
-**Objective:** 
+Objective:
 Learner will be able to demonstrate manipulating an array & list
 
-**Description:**
+Description:
 
 * Change, add and remove list items: `append()` `insert()` `extend()` `remove()` `del()` `pop()` `clear()`. Join lists using `+` and `extend()`
 
 **Lesson 3.**
 
-**Objective:** 
+Objective:
 Learner will be able to demonstrate knowledge of, and apply global data structure and local data structure 
 
-**Description:**
+Description:
 
-* Global data structures are available to all subroutines 
-* Local data structures are only available to the subroutine they are declared in 
+* Global data structures 
+* Local data structures 
 
 
 
@@ -105,10 +105,10 @@ Chapter 3: Python Modules
 
 **Lesson 1.**
 
-**Objective:** 
+Objective:
 Learner will be able to demonstrate creating and using a module
 
-**Description:**
+Description:
 
 * What is a module
 * `.py`
@@ -117,28 +117,16 @@ Learner will be able to demonstrate creating and using a module
 
 **Lesson 2**
 
-**Objective:** 
+Objective:
 Learner will be able to demonstrate using Python math module
 
-**Description**
+Description
 
 * `min()` and `max()`
 * `abs()`
 * `math.sqrt()`
 
-
-**Lesson 3**
-
-**Objective:** 
-Learner will be able to demonstrate importing modules and describe their use 
-
-**Description:**
-
-* Matplotlib
-* Pandas
-* Numpy
-
-**Lesson 4**
+**Lesson 3 **
 
 **Objective:** 
 Learner will be able to demonstrate downloading and installing packages using PIP
@@ -150,16 +138,29 @@ Learner will be able to demonstrate downloading and installing packages using PI
 * `list()` packages
 
 
+**Lesson 4 **
+
+Objective:
+Learner will be able to demonstrate importing modules and describe their use 
+
+Description:
+
+* Matplotlib
+* Pandas
+* Numpy
+
+
+
 
 Chapter 4: NumPy
 ----------------------------------------------
 
 **Lesson 1.**
 
-**Objective:** 
+Objective:
 Learner will be able to compare numpy to lists, install and import numpy, describe numpy and why we use it
 
-**Description:**
+Description:
 
 * Why use numpy ?
 * Why is numpy faster than lists?
@@ -167,10 +168,10 @@ Learner will be able to compare numpy to lists, install and import numpy, descri
 
 **Lesson 2.**
 
-**Objective:** 
+Objective:
 Learner will be able to demonstrate creating an array, and access elements from this array. 
 
-**Description:**
+Description:
 
 * `np.array()` 
 * Assigning results of function to array
@@ -180,20 +181,20 @@ Learner will be able to demonstrate creating an array, and access elements from 
 
 **Lesson 3.**
 
-**Objective:** 
+Objective:
 Learner will be able to demonstrate numpy array slicing
 
-**Description:**
+Description:
 * `[start:end]`
 * `[start:end:step]`
 * Negative
 
 **Lesson 4.**
 
-**Objective:** 
+Objective:
 Learner will be able to demonstrate joinig, splitting and searching arrays
 
-**Description:**
+Description:
 
 * `concatenate()`
 * `stack ()`
