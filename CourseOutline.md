@@ -1,14 +1,19 @@
 Course: Introduction to Python
 ================================
 
-Chapter 1: Syntax
+Chapter 1: Writing Structured Programs & Using Variables
 -------------------------------------------------------
 
 | Lesson | Objective | Description |
 | --------------- | --------------- | --------------- |
-|  1 | Learner will be able to apply basic Python syntax to output a message and describe why we use Python | Introduction to what Python, Python interface, outputting a message `print` & commenting `#` |
-| 2 | Learner will be able to apply Python syntax to calculate simple math problems | Using Python as a calculator: `+` `-` `*`  `/`  `%`  `**`  |
-| 3 | Learner will be able to create and use variables to output a result using various assignment operators and data types | Introduction to variable types `int`  ` float`  `str`  `bool`and concatenating different data types. Operators such as, `=` `*=` `/=` |
+|  1 | Learner will be able to demonstrate creating a function in Python | Programs should start with a comment stating the purpose of the program.
+Comments are identified with the hash # symbol. Programs should be structured into sections of code called subroutines. Subroutines are identified with the def keyword. Each subroutine should start with a comment to explain what it does. Subroutines that do not return any values are called procedures. Subroutines that return values are called functions. Keywords are the words that the programming language uses for instructions. E.g. print. Keywords are also called reserved words because you cannot use them for other purposes in your program. e.g. you cannot call a subroutine print.
+Python is case sensitive. This means that keywords must be entered in the correct case.|
+| 2 | Learner will be able to demonstrate using variables, creating constants, and concatenation |  Text in a program is called a string. It is a string of characters.
+Strings are qualified with double quote marks. E.g. “This is a string” to show where the text starts and ends.
+Constants are values in a program that can only be changed by the programmer. The program does not change them when it is running.
+Variables are places in memory where values are stored. They are given an identifier to name them. |
+| 3 | Learner will be able to create and use different assignment operators and data types | `int`  ` float`  `str`  `bool`, `=` `*=` `/=` . Variables have a data type that describes the data they are storing, e.g. string, float etc. This reserves the correct amount of memory for the data. Specifying the data type is not necessary in Python. The name of a variable is called an identifier. Different variables can have the same identifier in different subroutines.When variables are given a value they are said to be assigned. Giving a variable an initial value is called initialising the variable.|
 
 
 Chapter 2: Lists
