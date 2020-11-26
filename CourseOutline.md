@@ -186,7 +186,7 @@ Description:
 **Lesson 4.**
 
 Objective:
-Learner will be able to demonstrate joinig, splitting and searching arrays
+Learner will be able to demonstrate joining, splitting and searching arrays
 
 Description:
 
