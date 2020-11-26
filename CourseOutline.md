@@ -27,9 +27,9 @@ Description:
 * Functions, parameters, variables, constants, concatenation 
 * Storing user input
 * Datatypes 
-* Integers & decimals, casting random, output formatting, mod, div, string manipulation, functions
+* Integers & decimals, casting random, output formatting, mod, div, string manipulation
 * Defining an identifier 
-* Calculator
+* Calculator 
 * Assigning variables  
 * Initialising the variable
 
@@ -53,11 +53,10 @@ Chapter 2: Arrays & Lists
 **Lesson 1.**
 
 Objective:
-Learner will be able to demonstrate interpreting arrays and lists effectively and describe the difference between and array and a list
+Learner will be able to demonstrate interpreting arrays and lists effectively and describe the difference between an array and a list
 
 Description:
 
-* E.g. Variables can only contain one value. Sometimes it would be useful if a single identifier could hold multiple items. E.g. names of students in a class, or in this example, words in a sentence. A list is an alternative to a variable that does this
 * Data types
 * Elements
 * Indexing
@@ -83,7 +82,8 @@ Learner will be able to demonstrate manipulating an array & list
 
 Description:
 
-* Change, add and remove list items: `append()` `insert()` `extend()` `remove()` `del()` `pop()` `clear()`. Join lists using `+` and `extend()`
+* Change, add and remove list items: `append()` `insert()` `extend()` `remove()` `del()` `pop()` `clear()`. 
+* Join lists using `+` and `extend()`
 
 **Lesson 3.**
 
@@ -152,7 +152,7 @@ Chapter 4: NumPy
 **Lesson 1.**
 
 Objective:
-Learner will be able to compare numpy to lists, install and import numpy, describe numpy and why we use it
+Learner will be able to compare numpy to lists, install and import numpy
 
 Description:
 
@@ -163,7 +163,7 @@ Description:
 **Lesson 2.**
 
 Objective:
-Learner will be able to demonstrate creating an array, and access elements from this array. 
+Learner will be able to demonstrate creating an array and access elements from this array
 
 Description:
 
