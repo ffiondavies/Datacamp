@@ -37,7 +37,7 @@ Description:
 **Lesson 3.**
 
 Objective: 
-Learner will demonstrate using controlled iterations
+Learner will be able to demonstrate using controlled iterations
 
 Description:
 
@@ -88,7 +88,7 @@ Description:
 **Lesson 3.**
 
 Objective:
-Learner will be able to demonstrate knowledge of, and apply global data structure and local data structure 
+Learner will be able to demonstrate knowledge and application of global data structure and local data structure 
 
 Description:
 
